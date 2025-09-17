@@ -1,3 +1,80 @@
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9vOWxnam9jNmdmeXVxemowZWhucjNsbGNjdGx0NHZqdTdhMjVqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif" width="200"/>
+  <br/>
+  <h1>
+    📊 Dashboard de Análise de Agências dos Correios
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <h3>Análise de Variação Percentual (2005-2012)</h3>
+</div>
+
+<div id="badges" align="center">
+  <a href="mailto:vieirapedroai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/masterai/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/pedro-ai-eng">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Analysis"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pedro-ai-eng&style=flat-square&color=blueviolet" alt=""/>
+</div>
+
+---
+
+<div align="center">
+  <h2>🎯 Sobre o Projeto</h2>
+  <p>Análise completa de dados das agências dos correios no estado de Goiás, comparando os números entre 2005 e 2012 e calculando a variação percentual para cada localidade.</p>
+  
+  <h3>📈 Principais Resultados</h3>
+  <ul align="left" style="display: inline-block;">
+    <li><strong>246 localidades</strong> analisadas</li>
+    <li><strong>3.96%</strong> de variação média</li>
+    <li><strong>75%</strong> de variação máxima</li>
+    <li><strong>Goiânia</strong> com maior crescimento (56.67%)</li>
+  </ul>
+</div>
+
+---
+
+<div align="center">
+  <h2>🚀 Tecnologias Utilizadas</h2>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+</div>
+
+---
+
+<div align="center">
+  <h2>📊 Fórmula de Cálculo</h2>
+  <code>Variação Percentual = ((2012 - 2005) / 2012) × 100</code>
+</div>
+
+---
+
+<div align="center">
+  <h2>🔗 Links Úteis</h2>
+  <a href="#-como-executar">📖 Documentação</a> •
+  <a href="#-estrutura-do-projeto">📁 Estrutura</a> •
+  <a href="#-resultados-da-análise">📈 Resultados</a> •
+  <a href="#-contribuições">🤝 Contribuir</a>
+</div>
+
+---
+
 # Dashboard de Análise de Agências dos Correios (2005-2012)
 
 Este projeto analisa dados sobre agências dos correios no estado de Goiás, comparando os números entre 2005 e 2012, e calcula a variação percentual entre esses períodos.
